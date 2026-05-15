@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Random\Random\bin\Debug\net10.0\Random.exe
+C:\Users\PC\source\repos\Random\Random\bin\Debug\net10.0\Random.deps.json
+C:\Users\PC\source\repos\Random\Random\bin\Debug\net10.0\Random.runtimeconfig.json
+C:\Users\PC\source\repos\Random\Random\bin\Debug\net10.0\Random.dll
+C:\Users\PC\source\repos\Random\Random\bin\Debug\net10.0\Random.pdb
+C:\Users\PC\source\repos\Random\Random\obj\Debug\net10.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Random\Random\obj\Debug\net10.0\Random.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Random\Random\obj\Debug\net10.0\Random.AssemblyInfo.cs
+C:\Users\PC\source\repos\Random\Random\obj\Debug\net10.0\Random.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Random\Random\obj\Debug\net10.0\Random.dll
+C:\Users\PC\source\repos\Random\Random\obj\Debug\net10.0\refint\Random.dll
+C:\Users\PC\source\repos\Random\Random\obj\Debug\net10.0\Random.pdb
+C:\Users\PC\source\repos\Random\Random\obj\Debug\net10.0\Random.genruntimeconfig.cache
+C:\Users\PC\source\repos\Random\Random\obj\Debug\net10.0\ref\Random.dll
